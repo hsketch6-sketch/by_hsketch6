@@ -1,4 +1,4 @@
-# Quantitative Investment Strategy Backtest (Long-Only)
+# Quantitative Investment Strategy Backtest (Long-Only) ( DON't trust this, i found a error so i fix it...)
 
 A multi-period robust backtest analysis of a Long-Only quantitative trading strategy spanning from 2000 to 2024. The strategy evaluates performance across three distinct phases: In-Sample (Optimization), Validation (Walk-Forward), and Out-of-Sample (Forward Testing).
 ## 📊 Comprehensive Performance Metrics
