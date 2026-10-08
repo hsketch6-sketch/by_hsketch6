@@ -1,7 +1,7 @@
 um bro i make an error so i re make it see you later :D
 (and i am not smart..)
 
-yay i make new
+yay i make new!
 (pls no error. pls.)
 (2026-10-08)
 
