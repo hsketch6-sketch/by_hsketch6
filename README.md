@@ -5,7 +5,7 @@ yay i make new!
 (pls no error. pls.)
 (2026-10-08)
 
-(this is NO TR, and NO SHORT only long and exit. and this is Hybrid Alpha . that's all.)
+# (this is NO TR, and NO SHORT only long and exit. and this is Hybrid Alpha . that's all.)
 # Systematic S&P500-Related Portfolio Strategy
 
 > **A systematic portfolio strategy designed around the characteristics of the S&P500, but implemented through a different portfolio construction and market-risk framework.**
