@@ -210,4 +210,4 @@ Historical backtest performance does not guarantee future results. Backtests may
 
 The results presented here should not be interpreted as financial advice or a guarantee of future performance.
 
-##I’m a 7th grader who loves creating financial algorithms. I'm completely new to the world of quant trading and stock investing. Please note that this post was translated using AI.
+#I’m a 7th grader who loves creating financial algorithms. I'm completely new to the world of quant trading and stock investing. Please note that this post was translated using AI.
