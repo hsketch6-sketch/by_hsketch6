@@ -1,5 +1,38 @@
+# Systematic Trend-Following Portfolio Strategy with Whipsaw Protection
 
-(pls no error. pls.)
+> **A momentum-based strategy that captures strong trends 
+> while systematically avoiding whipsaw losses through 
+> simple, low-indicator filtering.**
+
+---
+
+## ⚠️ Algorithm Disclosure Policy
+
+**This repository contains a complete, auditable backtest of a systematic trading strategy.**
+
+However, the **core algorithm for identifying high-conviction trend signals** is currently **kept proprietary** due to its simplicity and ease of replication.
+
+### Why?
+
+This strategy's competitive advantage lies in:
+- **Simple signal generation** (easy to copy if disclosed)
+- **Whipsaw filtering mechanism** (proprietary)
+- **Asset selection methodology** (proprietary)
+
+### Our Position
+
+**We are open to full algorithm disclosure** if:
+- ✅ You are a **serious institutional partner** (hedge fund, asset manager)
+- ✅ You sign an **NDA** or **partnership agreement**
+- ✅ You have **legitimate use case** (not copycat/resale)
+
+**For collaboration inquiries:** [contact info or email]
+
+---
+
+## Overview
+
+This project contains a systematic investment strategy.
 (2026-10-08)
 
 # (this is NO TR, and NO SHORT only long and exit. this is one-shot and Unoptimized . that's all.)
