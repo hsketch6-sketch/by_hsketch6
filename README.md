@@ -26,7 +26,7 @@ This strategy's competitive advantage lies in:
 - ✅ You sign an **NDA** or **partnership agreement**
 - ✅ You have **legitimate use case** (not copycat/resale)
 
-**For collaboration inquiries:** [contact info or email]
+**For collaboration inquiries:** [hsketch6@gmail.com]
 
 ---
 
