@@ -1,5 +1,4 @@
-um bro i make an error so i re make it see you later :D
-yay i make new!
+
 (pls no error. pls.)
 (2026-10-08)
 
